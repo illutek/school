@@ -1,0 +1,4 @@
+<?php
+    function school_preprocess_page(&$variables) {
+    }
+?>

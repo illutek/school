@@ -1,0 +1,48 @@
+@import "variabele";
+@import "base/bootstrap.min";
+@import "base/globals";
+@import "layout/header";
+@import "layout/footer";
+@import "components/bootstrap.nav";
+@import "state/media-query";
+
+// Google fonts
+@import url(https://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700|Muli);
+
+
+
+
+
+
+
+// Genest
+nav a, footer a, header a {}
+header a {}
+
+.welkom p, .missie p, .zee p {}
+footer .glyphicon {}
+
+
+
+// Herbruikbare klassen
+
+
+// Animatie
+.effect {}
+.effecten {}
+.rondom {}
+.masker {}
+.masker p {	}
+.masker p {	}
+
+.rondom:hover p {}
+
+.rondom img {}
+
+.rondom:hover img {}
+
+
+
+
+
+// Google Fonts
