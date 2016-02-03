@@ -1,0 +1,7 @@
+//======================================
+// ## ++ Mixin
+//======================================
+// use @include paddingTop();
+@mixin paddigTop($top: 10%){
+  padding-top: $top;
+}
