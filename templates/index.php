@@ -26,7 +26,7 @@ include 'partials/header.inc.php';
 <section class="container">
     <div class="row">
         <main class="col-sm-9">
-
+            Wat test inhoud om de git branch te testen.
         </main>
         <aside class="col-sm-3">
 
