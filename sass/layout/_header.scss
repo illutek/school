@@ -2,7 +2,10 @@
 // ## ++ Header
 //================================
 
-header { 	}
+header {
+  min-height: 30%;
+  background: black url("../images/logo2.png") no-repeat center center;
+}
 .vert {}
 .doorzichtig {margin-top:-20%; }
 .hoofding {}

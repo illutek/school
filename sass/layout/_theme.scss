@@ -1,13 +1,7 @@
 //==================================
-// ## ++ Variabele
+// ## ++ Theme
+//
 //==================================
-
-$dark-grey: #1F1F1F;
-$lightgray: #EDEDED;
-$gray: #BBBBBB;
-$oranje: #E29700;
-$green: #468C00;
-$bleu: #00AFF1;
 
 // Herbruikbare klassen
 .margintop {margin-top: 3%}
@@ -18,4 +12,7 @@ $bleu: #00AFF1;
 .paddingbottom10 {padding-bottom: 10%}
 .paddingtop15 {padding-top: 15%}
 .paddingbottom15 {padding-bottom: 15%}
-.serif {font-family: 'Old Standard TT', serif;}
+
+.border-right {
+  border-right: solid 1px $gray;
+}

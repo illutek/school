@@ -21,6 +21,7 @@
 //=========================
 @import "layout/header";
 @import "layout/footer";
+@import "layout/theme";
 
 //========================
 // @@ ++ Components
@@ -37,36 +38,3 @@
 // @@ ++ Theme
 //=======================
 
-
-
-// Genest
-nav a, footer a, header a {}
-header a {}
-
-.welkom p, .missie p, .zee p {}
-footer .glyphicon {}
-
-
-
-// Herbruikbare klassen
-
-
-// Animatie
-.effect {}
-.effecten {}
-.rondom {}
-.masker {}
-.masker p {	}
-.masker p {	}
-
-.rondom:hover p {}
-
-.rondom img {}
-
-.rondom:hover img {}
-
-
-
-
-
-// Google Fonts
