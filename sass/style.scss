@@ -1,17 +1,41 @@
-@import "variabele";
-@import "base/bootstrap.min";
-@import "base/globals";
-@import "layout/header";
-@import "layout/footer";
-@import "components/bootstrap.nav";
-@import "state/media-query";
-
+//=========================
+// @@ ++ Base
+//=========================
+@import "base/reset";
 // Google fonts
 @import url(https://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700|Muli);
+@import "base/variabele";
+@import "base/globals";
 
+//=========================
+// @@ ++ Vendor
+//=========================
+@import "vendor/bootstrap.min";
 
+//=========================
+// @@ ++ Mixin
+//=========================
 
+//=========================
+// @@ ++ Layout
+//=========================
+@import "layout/header";
+@import "layout/footer";
 
+//========================
+// @@ ++ Components
+//========================
+@import "components/animatie";
+@import "components/bootstrap.nav";
+
+//=======================
+// @@ ++ State
+//=======================
+@import "state/media-query";
+
+//=======================
+// @@ ++ Theme
+//=======================
 
 
 
