@@ -1,15 +1,31 @@
 //============================
 // ## ++ Header
 //================================
+.path-frontpage {
+  header {
+    background: url("../images/header.jpg") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 80vh;
+    padding-top: 11%;
+    a {
+      color: white;
+    }
+    .logo {
+      margin-bottom: 15%;
+    }
+    .arrow-down{
 
+    }
+  }
+  .white-row {
+    background: rgba(255,255,255,0.5);
+    border-top: solid 1px white;
+    padding-top: 2%;
+    color: black;
+  }
+}
 header {
   min-height: 30%;
   background: black url("../images/logo2.png") no-repeat center center;
 }
-.vert {}
-.doorzichtig {margin-top:-20%; }
-.hoofding {}
-// .path-frontpage .hoofding {
-.hoofding {}
-.pijl {}
-.pijlknop {}

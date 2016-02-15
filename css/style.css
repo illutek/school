@@ -5703,12 +5703,25 @@ button.close {
   .hidden-print {
     display: none !important; } }
 /*# sourceMappingURL=bootstrap.min.css.map */
+.path-frontpage header {
+  background: url("../images/header.jpg") no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 80vh;
+  padding-top: 11%; }
+  .path-frontpage header a {
+    color: white; }
+  .path-frontpage header .logo {
+    margin-bottom: 15%; }
+.path-frontpage .white-row {
+  background: rgba(255, 255, 255, 0.5);
+  border-top: solid 1px white;
+  padding-top: 2%;
+  color: black; }
+
 header {
   min-height: 30%;
   background: black url("../images/logo2.png") no-repeat center center; }
-
-.doorzichtig {
-  margin-top: -20%; }
 
 footer {
   background: #EDEDED; }
